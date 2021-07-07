@@ -1,0 +1,20 @@
+
+
+.mapContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.info{
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 99;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  color: white;
+  padding: 5px 10px;
+}
